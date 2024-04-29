@@ -116,13 +116,16 @@
 
 <br/>  
 
+<details><summary> Spotify Listening </summary><table><tr><td valign="top" width="50%">
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lasithaharshana&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="left" height="440" width="450" />  
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+</td><td valign="top" width="50%">
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+
+</td></tr></table></details>  
 
 <br/>  
 
