@@ -97,19 +97,19 @@
 </div>  
   
 
-<a href="https://github.com/https://github.com/lasithaharshana" target="_blank">
+<a href="https://github.comlasithaharshana" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lasithadesilva" target="_blank">
+<a href="https://www.linkedin.com/in/lasithadesilva" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://web.facebook.com/lelasitha.harshana/" target="_blank">
+<a href="https://facebook.com/lelasitha.harshana/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/_lasitha__?fbclid=IwZXh0bgNhZW0CMTAAAR2YtnhTPekNn7qpvAUVSHYVfCVlHkYvMxtKLMQ3xYv_NzbobjtEnF4TbNs_aem_ATbRngdNxT7Kuk9ZtfGiDhwEIkeJicyGfHdMOdCy4WfbrUxiv-DfCgno_gqqk7IXTrT9fzNoL9FkCGUx00HQ46hj" target="_blank">
+<a href="https://www.instagram.com/_lasitha__?fbclid=IwZXh0bgNhZW0CMTAAAR2YtnhTPekNn7qpvAUVSHYVfCVlHkYvMxtKLMQ3xYv_NzbobjtEnF4TbNs_aem_ATbRngdNxT7Kuk9ZtfGiDhwEIkeJicyGfHdMOdCy4WfbrUxiv-DfCgno_gqqk7IXTrT9fzNoL9FkCGUx00HQ46hj" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://gitlab.com/lasitha6646" target="_blank">
+<a href="https://gitlab.com/lasitha6646" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
   
