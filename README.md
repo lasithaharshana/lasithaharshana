@@ -9,11 +9,6 @@
 ### <div align="center">👋 Hey there! I'm Lasitha Harshana, a Computer Engineering undergraduate at the University of Ruhuna 🎓.</div>  
   
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 - 💻 I'm passionate about leveraging my coding skills in C++, JavaScript, and more to tackle complex problems and craft elegant solutions. I thrive on diving into competitive programming challenges, employing creative data structures and algorithms.  
   
 
@@ -87,6 +82,21 @@
 
 
 ## Connect with me  
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" align="right" height="50" width="50" />
+</div>  
+  
+
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="right" height="50" width="50" />
+</div>  
+  
+
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="right" height="50" width="50" />
+</div>  
+  
+
 <a href="https://github.com/https://github.com/lasithaharshana" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -112,7 +122,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
@@ -120,6 +130,7 @@
 
 <br/>  
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="left" style="width: 100%" />  
 
 <br />
 
