@@ -92,24 +92,24 @@
   
 
 <div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="right" height="50" width="50" />
+</div>  
+  
+<div align="right">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="right" height="50" width="50" />
 </div>  
   
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="right" height="50" width="50" />
-</div>  
-  
 
 
 <a href="https://www.linkedin.com/in/lasithadesilva" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://facebook.com/lelasitha.harshana/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.instagram.com/_lasitha__?fbclid=IwZXh0bgNhZW0CMTAAAR2YtnhTPekNn7qpvAUVSHYVfCVlHkYvMxtKLMQ3xYv_NzbobjtEnF4TbNs_aem_ATbRngdNxT7Kuk9ZtfGiDhwEIkeJicyGfHdMOdCy4WfbrUxiv-DfCgno_gqqk7IXTrT9fzNoL9FkCGUx00HQ46hj" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://facebook.com/lelasitha.harshana/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/lasitha6646" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
@@ -141,5 +141,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="left" style="width: 100%" />  
 
 <br />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="amayuru1999" /> </p>
 
 ----
