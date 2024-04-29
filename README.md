@@ -131,11 +131,7 @@
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 </td></tr></table></details>  
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="amayuru1999" /> </p>
-<br/>  
-
-<br/>  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="left" style="width: 100%" />  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="amayuru1999" /> </p>
 
-<br />
