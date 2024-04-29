@@ -101,9 +101,7 @@
 </div>  
   
 
-<a href="https://github.com/lasithaharshana" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/lasithadesilva" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -115,7 +113,10 @@
 </a>
 <a href="https://gitlab.com/lasitha6646" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://www.hackerrank.com/lasithaharshana" target="_blank">
+<img src=https://github.com/lasithaharshana/lasithaharshana/assets/139677557/96ac30bd-dd07-47c4-a3c3-3f5ed19ad7b4 alt="lasithaharshana" height="28" width="90"  />
+</a>
   
 
 <br/>  
