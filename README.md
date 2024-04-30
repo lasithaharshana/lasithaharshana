@@ -83,6 +83,22 @@
 
 ## Connect with me  
 
+<a href="https://www.hackerrank.com/lasithaharshana" target="_blank">
+<img src=https://cdn.worldvectorlogo.com/logos/hackerrank.svg align="left"height="50" width="50"  />
+</a>
+
+<a href="https://gitlab.com/lasitha6646" target="_blank">
+<img src=https://github.com/lasithaharshana/lasithaharshana/assets/139677557/efb47e03-52e9-4545-a4d8-b3157ebb28de align="left" alt="lasithaharshana" height="50" width="50" />
+</a>
+
+<a target="_blank" href="mailto:lasithaharshanadesilva@gmail.com">
+<img src="https://github.com/lasithaharshana/lasithaharshana/assets/139677557/6731f630-cc8e-4581-b5c6-4e6382e109c6" align="left" height="53" width="68">
+</a>
+
+<a href="tel:+94714389033" >
+  <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" align="left" height="45" width="48" alt="Phone Icon">
+</a>
+
 <a href="https://wa.me/94714389033" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" align="right" height="58" width="58" />
 </a>
@@ -113,34 +129,24 @@
 -->
 
 
-<a href="https://www.hackerrank.com/lasithaharshana" target="_blank">
-<img src=https://cdn.worldvectorlogo.com/logos/hackerrank.svg align="left"height="50" width="50"  />
-</a>
-
-<a href="https://gitlab.com/lasitha6646" target="_blank">
-<img src=https://github.com/lasithaharshana/lasithaharshana/assets/139677557/efb47e03-52e9-4545-a4d8-b3157ebb28de align="left" alt="lasithaharshana" height="50" width="50" />
-</a>
-
-<a target="_blank" href="mailto:lasithaharshanadesilva@gmail.com">
-<img src="https://github.com/lasithaharshana/lasithaharshana/assets/139677557/6731f630-cc8e-4581-b5c6-4e6382e109c6" align="left" height="53" width="68">
-</a>
-
-<a href="tel:+94714389033" >
-  <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" height="45" width="48" alt="Phone Icon">
-</a>
-  
+<br/> 
+<br/>  
 <br/>  
 
-<details><summary> Spotify Listening </summary><table><tr><td valign="top" width="50%">
+<details><summary>Spotify Listening </summary><table><tr><td valign="top" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="left" height="440" width="450" />  
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" align="center" height="100%" width="100%" />  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
-</td></tr></table></details>  
+</td>
+<td valign="top" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="center" height="100%" width="100%" />  
+</td>
+</tr></table></details>  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" style="width: 100%" />  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
