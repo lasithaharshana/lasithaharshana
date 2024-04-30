@@ -133,18 +133,18 @@
 <br/>  
 <br/>  
 
-<details><summary>Spotify Listening </summary><table><tr><td valign="top" width="33%">
+<details><summary>Spotify Listening </summary><table><tr><td valign="top" height="100%" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" align="center" height="413" width="100%" />  
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" align="center" height="400" width="100%" />  
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" height="100%" width="33%">
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 </td>
-<td valign="top" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="center" height="417" width="100%" />  
+<td valign="top" height="100%" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="center" height="402" width="100%" />  
 </td>
 </tr></table></details>  
 
