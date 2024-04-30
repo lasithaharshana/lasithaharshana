@@ -82,43 +82,53 @@
 
 
 ## Connect with me  
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" align="right" height="50" width="50" />
-</div>  
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" align="right" height="50" width="50" />
-</div>  
+<a href="https://wa.me/94714389033" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" align="right" height="58" width="58" />
+</a>
+<a href="https://facebook.com/lelasitha.harshana/" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" align="right" height="58" width="58" />
+</a>
   
+<a href="https://www.instagram.com/_lasitha__?fbclid=IwZXh0bgNhZW0CMTAAAR2YtnhTPekNn7qpvAUVSHYVfCVlHkYvMxtKLMQ3xYv_NzbobjtEnF4TbNs_aem_ATbRngdNxT7Kuk9ZtfGiDhwEIkeJicyGfHdMOdCy4WfbrUxiv-DfCgno_gqqk7IXTrT9fzNoL9FkCGUx00HQ46hj" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="right" height="58" width="58" />
+</a>
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" align="right" height="50" width="50" />
-</div>  
-  
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="right" height="50" width="50" />
-</div>  
-  
+<a href="https://www.linkedin.com/in/lasithadesilva" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" align="right" height="58" width="58" />
+</a>
 
 
-
+<!--
 <a href="https://www.linkedin.com/in/lasithadesilva" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/_lasitha__?fbclid=IwZXh0bgNhZW0CMTAAAR2YtnhTPekNn7qpvAUVSHYVfCVlHkYvMxtKLMQ3xYv_NzbobjtEnF4TbNs_aem_ATbRngdNxT7Kuk9ZtfGiDhwEIkeJicyGfHdMOdCy4WfbrUxiv-DfCgno_gqqk7IXTrT9fzNoL9FkCGUx00HQ46hj" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://facebook.com/lelasitha.harshana/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/lasitha6646" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
+
+-->
+
+
 <a href="https://www.hackerrank.com/lasithaharshana" target="_blank">
-<img src=https://github.com/lasithaharshana/lasithaharshana/assets/139677557/96ac30bd-dd07-47c4-a3c3-3f5ed19ad7b4 alt="lasithaharshana" height="28" width="90"  />
+<img src=https://cdn.worldvectorlogo.com/logos/hackerrank.svg align="left"height="50" width="50"  />
+</a>
+
+<a href="https://gitlab.com/lasitha6646" target="_blank">
+<img src=https://github.com/lasithaharshana/lasithaharshana/assets/139677557/efb47e03-52e9-4545-a4d8-b3157ebb28de align="left" alt="lasithaharshana" height="50" width="50" />
+</a>
+
+<a target="_blank" href="mailto:lasithaharshanadesilva@gmail.com">
+<img src="https://github.com/lasithaharshana/lasithaharshana/assets/139677557/6731f630-cc8e-4581-b5c6-4e6382e109c6" align="left" height="53" width="68">
+</a>
+
+<a href="tel:+94714389033" >
+  <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" height="45" width="48" alt="Phone Icon">
 </a>
   
-
 <br/>  
 
 <details><summary> Spotify Listening </summary><table><tr><td valign="top" width="50%">
@@ -132,6 +142,6 @@
 
 </td></tr></table></details>  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="left" style="width: 100%" />  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" style="width: 100%" />  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="amayuru1999" /> </p>
 
