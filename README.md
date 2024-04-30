@@ -143,5 +143,5 @@
 </td></tr></table></details>  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" style="width: 100%" />  
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="amayuru1999" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
 
