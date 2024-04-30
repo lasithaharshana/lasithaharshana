@@ -135,7 +135,7 @@
 
 <details><summary>Spotify Listening </summary><table><tr><td valign="top" height="100%" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" align="center" height="345" width="100%" />  
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" align="center" height="335" width="100%" />  
 
 
 </td><td valign="top" height="100%" width="33%">
@@ -144,7 +144,7 @@
 
 </td>
 <td valign="top" height="100%" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="center" height="347" width="100%" />  
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="center" height="337" width="100%" />  
 </td>
 </tr></table></details>  
 
