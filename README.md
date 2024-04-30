@@ -95,7 +95,7 @@
 <img src="https://github.com/lasithaharshana/lasithaharshana/assets/139677557/6731f630-cc8e-4581-b5c6-4e6382e109c6" align="left" height="53" width="68">
 </a>
 
-<a href="tel:+94714389033" >
+<a href="https://wa.me/94714389033" target="_blank" >
   <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" align="left" height="45" width="48" alt="Phone Icon">
 </a>
 
