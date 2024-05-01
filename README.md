@@ -99,6 +99,7 @@
   <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" align="left" height="45" width="48" alt="Phone Icon">
 </a>
 
+
 <a href="https://wa.me/94714389033" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" align="right" height="58" width="58" />
 </a>
@@ -135,9 +136,9 @@
 
 <details><summary>Spotify Listening </summary><table><tr><td valign="top" height="100%" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" align="center" height="335" width="100%" />  
-
-
+<img src="https://i.pinimg.com/originals/78/1a/75/781a75a112e6c689dd1030f4ad495512.gif" height="335" width="100%" />  
+<!-- <img src="https://i.pinimg.com/originals/06/38/25/063825cb5891b829e968757afe735796.gif" height="335" width="100%" /> 
+<img src="https://i.pinimg.com/originals/77/3e/6a/773e6a81553e079dae3994e5a6778c31.gif" height="335" width="100%" /> -->
 </td><td valign="top" height="100%" width="33%">
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
