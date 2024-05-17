@@ -155,7 +155,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="center" height="337" width="100%" />  
 </td>
 </tr></table></details>  
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" style="width: 100%" />  
+<!--
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" style="width: 100%" />  -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
 
