@@ -134,7 +134,7 @@
 </a>
 
 -->
-
+<!-- 
 
 <br/> 
 <br/>  
@@ -144,18 +144,15 @@
 <details><summary>Spotify Listening </summary><table><tr><td valign="top" height="100%" width="33%">
 
 <img src="https://i.pinimg.com/originals/78/1a/75/781a75a112e6c689dd1030f4ad495512.gif" height="335" width="100%" />  
-<!-- <img src="https://i.pinimg.com/originals/06/38/25/063825cb5891b829e968757afe735796.gif" height="335" width="100%" /> 
+<img src="https://i.pinimg.com/originals/06/38/25/063825cb5891b829e968757afe735796.gif" height="335" width="100%" /> 
 <img src="https://i.pinimg.com/originals/77/3e/6a/773e6a81553e079dae3994e5a6778c31.gif" height="335" width="100%" /> -->
-</td><td valign="top" height="100%" width="33%">
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=pscjrfxp1bpc8kacyz1nyaknm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
-
+<!--</td><td valign="top" height="100%" width="33%">
 </td>
 <td valign="top" height="100%" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="center" height="337" width="100%" />  
 </td>
 </tr></table></details>  
 <!--
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" style="width: 100%" />  -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" style="width: 100%" />  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lasithaharshana&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p> -->
 
