@@ -12,16 +12,18 @@
 - 💻 I'm passionate about leveraging my C++, JavaScript, and more coding skills to tackle complex problems and craft elegant solutions. I thrive on diving into competitive programming challenges, employing creative data structures and algorithms.  
   
 
-- ☁️ Additionally, I'm deeply interested in AWS (Amazon Web Services) and adept at working with cloud technologies to develop scalable and reliable applications. Currently, I'm diving into DevOps concepts to enhance my skills further.  
+- ☁️ Additionally, I'm deeply interested in AWS (Amazon Web Services) and adept at working with cloud technologies to develop scalable and reliable applications.  
   
 
 - 🤝 I value teamwork, excel in time management, and possess strong problem-solving skills. Adaptability and continuous learning are at the core of my approach to projects.  
   
 
 - 🚀 Let's connect and collaborate on exciting endeavours! Feel free to explore my repositories, and don't hesitate to reach out for a chat or collaboration opportunity! 🌟  
+
+- 🏢 Previously, I worked as a Full Stack Developer Intern at WSO2, where I gained hands-on experience in building robust and scalable software solutions.
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" align="right" height="" width="50" ">
+  <a href="https://chatgpt.com/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" align="right" height="" width="50" "></a>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" align="right" height="" width="40" ">
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" align="right" width="50" ">
   
