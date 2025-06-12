@@ -24,8 +24,8 @@
   
 <p align="center">
   <a href="https://chatgpt.com/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" align="right" height="" width="50" "></a>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" align="right" height="" width="40" ">
-  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" align="right" width="50" ">
+  <a href="https://www.google.com/" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" align="right" height="" width="40" "></a>
+  <a href="https://gemini.google.com/app" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" align="right" height="" width="50" "></a>
   
 </p>
 
